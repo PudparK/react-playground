@@ -21,7 +21,11 @@ export default function Home({ allPostsData }) {
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Projects</h2>
         <Link href={`responsive-modal`}>
+<<<<<<< HEAD
           <a>Responsive Modal w/ Video</a>
+=======
+          <a>Responsive Modal</a>
+>>>>>>> 31ea88a7d1bfbea20dac0ea75f86e5b6c7de469a
         </Link>
       </section>
       {/* <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
