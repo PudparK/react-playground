@@ -20,7 +20,7 @@ export default function Home({ allPostsData }) {
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Projects</h2>
-        <Link href={`responsive-modal`}>
+        <Link href={`/responsive-modal`}>
           <a>Responsive Modal w/ Video</a>
         </Link>
       </section>
